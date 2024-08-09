@@ -1,4 +1,14 @@
-baseURL: https://example.org/
+baseURL: apaynter.netlify.app
 languageCode: en-us
 title: Alex Paynter's site
 theme: PaperMod
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 10
+    - identifier: posts 
+      name: posts
+      url: /posts/
+      weight: 20
