@@ -12,3 +12,19 @@ menu:
       name: posts
       url: /posts/
       weight: 20
+params:
+  profileMode:
+    enabled: true
+    title: "Alex Paynter" # optional default will be site title
+    subtitle: "Personal website"
+    buttons:
+      - name: about
+        url: "/about"
+      - name: posts
+        url: "/posts"
+    socialIcons: 
+      - name: "Github"
+        url: "https://github.com/alexpaynter"
+      - name: "LinkedIn"
+        url: "https://www.linkedin.com/in/alex-paynter-066381227/"
+
