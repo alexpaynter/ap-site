@@ -22,9 +22,9 @@ params:
         url: "/about"
       - name: posts
         url: "/posts"
-    socialIcons: 
-      - name: "Github"
-        url: "https://github.com/alexpaynter"
-      - name: "LinkedIn"
-        url: "https://www.linkedin.com/in/alex-paynter-066381227/"
+  socialIcons: 
+    - name: "github"
+      url: "https://github.com/alexpaynter"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/alex-paynter-066381227/"
 
