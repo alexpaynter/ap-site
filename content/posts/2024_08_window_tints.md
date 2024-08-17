@@ -10,7 +10,7 @@ If you too decide to get tinted windows, you will have an important decision to 
 
 Dumbfounded by the lack of visualizations available to answer this question, I made the following:
 
-<insert graphic, how do?>
+![Window tint square choropleth](/posts/window_tints_square_choro.png)
 
 The data are pulled from [here](https://www.raynofilm.com/blog/automotive-window-tint-laws-by-state), and I made the simplification of taking the maximum of the rear and side numbers, since all but 6 states have the same laws for those regions of the car.
 
