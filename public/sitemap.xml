@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-16T10:17:34-07:00</lastmod>
+    <loc>https://apaynter.netlify.app/</loc>
+    <lastmod>2024-08-16T18:17:34-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-08-16T10:17:34-07:00</lastmod>
+    <loc>https://apaynter.netlify.app/posts/</loc>
+    <lastmod>2024-08-16T18:17:34-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2024_08_window_tints/</loc>
-    <lastmod>2024-08-16T10:17:34-07:00</lastmod>
+    <loc>https://apaynter.netlify.app/posts/2024_08_window_tints/</loc>
+    <lastmod>2024-08-16T18:17:34-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://apaynter.netlify.app/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://apaynter.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://apaynter.netlify.app/tags/</loc>
   </url>
 </urlset>

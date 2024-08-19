@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Alex Paynter&#39;s site</title>
-    <link>http://localhost:1313/</link>
+    <link>https://apaynter.netlify.app/</link>
     <description>Recent content on Alex Paynter&#39;s site</description>
     <generator>Hugo -- 0.131.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Aug 2024 10:17:34 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Aug 2024 18:17:34 -0700</lastBuildDate>
+    <atom:link href="https://apaynter.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>State window tints</title>
-      <link>http://localhost:1313/posts/2024_08_window_tints/</link>
-      <pubDate>Fri, 16 Aug 2024 10:17:34 -0700</pubDate>
-      <guid>http://localhost:1313/posts/2024_08_window_tints/</guid>
-      <description>I got the windows of my car tinted recently. Why would a statistician approaching middle age do this? It could be that I read about the low UV protection offered by the tempered glass on side windows and believe the skin damage while driving is a pernicious risk for skin cancer. It could also be that I was so blown away by Bow Wow and Lucas Black&amp;rsquo;s performances in Fast and the Furious: Tokyo Drift that I&amp;rsquo;ve decided tinted windows are for me.</description>
+      <title>State window tint laws</title>
+      <link>https://apaynter.netlify.app/posts/2024_08_window_tints/</link>
+      <pubDate>Fri, 16 Aug 2024 18:17:34 -0700</pubDate>
+      <guid>https://apaynter.netlify.app/posts/2024_08_window_tints/</guid>
+      <description>I got the windows of my car tinted recently. Why would an office professional approaching middle age do such a thing? It could be that I read about the low UV protection offered by car side windows, due to the tempered glass that&amp;rsquo;s used, and I believe the skin damage incurred while driving adds up to a pernicious risk for skin cancer over time. It could also be that I was so blown away by Bow Wow and Lucas Black&amp;rsquo;s performances in Fast and the Furious: Tokyo Drift that I&amp;rsquo;ve decided tinted windows are the life for me.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://apaynter.netlify.app/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://apaynter.netlify.app/about/</guid>
       <description>Alex Paynter is a statistician (data scientist, if you prefer). Since 2023 he has worked for Sage Bionetworks, mostly on AACR&amp;rsquo;s Project GENIE. From 2019 to 2023 he worked with a group in Seattle Children&amp;rsquo;s Hospital coordination national studies of cystic fibrosis.
 This website is a place for personal projects and stray thoughts. Welcome and enjoy your stay.</description>
     </item>
