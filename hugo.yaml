@@ -4,10 +4,14 @@ title: Alex Paynter's site
 theme: PaperMod
 menu:
   main:
+    - identifier: home
+      name: home
+      url: /
+      weight: 5
     - identifier: about
       name: about
       url: /about/
-      weight: 10
+      weight: 30
     - identifier: posts 
       name: posts
       url: /posts/
@@ -27,4 +31,6 @@ params:
       url: "https://github.com/alexpaynter"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/alex-paynter-066381227/"
+    - name: "email"
+      url: "mailto://apaynter@pm.me"
 
