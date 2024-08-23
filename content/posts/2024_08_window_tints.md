@@ -10,7 +10,7 @@ If you too decide to get tinted windows, you will have an important decision to 
 
 I was stunned that the internet didn't have some data visualizations to show these state laws at a glance.  The overlap between the car modification and data science communities may be weaker than anticipated.  I made one to help my decision:
 
-![Window tint square choropleth](/posts/window_tints_square_choro.png)
+![Window tint square choropleth](/posts/window_tints_square_choro.svg)
 
 The data are pulled from [here](https://www.raynofilm.com/blog/automotive-window-tint-laws-by-state). We simplified the display by taking the maximum of the rear and side numbers, since all but 6 states have the same laws for those regions of the car.
 
